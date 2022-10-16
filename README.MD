@@ -19,5 +19,11 @@
 https://www.jma.go.jp/jma/kishou/info/coment.html
 
 # 参考文献
+
+https://www.data.jma.go.jp/developer/index.html
+
 https://dplyr.tidyverse.org/
+
 https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames
+
+https://qiita.com/mg_kudo/items/f06144c7f2267d6436af
