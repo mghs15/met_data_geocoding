@@ -16,7 +16,11 @@
 
 ※サンプルの R スクリプトでは、その後の使い道として、クリギングをしています。
 
-## 利用規約
+## PDF の観測所一覧から情報取得
+
+上記の CSV の存在に気が付く前に、[観測所一覧のPDF](https://www.jma.go.jp/jma/kishou/know/amedas/ame_master.pdf)から何とか情報を取得しようと正規表現を駆使して試行錯誤した結果もメモで残します。Node.js 用に JavaScript で記述したコードが、`getInfoFromAmePdf.js` です。使う際は、まず、表紙を除いて PDF を全部コピペして、テキストファイルに貼り付けたものを入力としてください。
+
+## 気象データ等の利用規約
 https://www.jma.go.jp/jma/kishou/info/coment.html
 
 # 参考文献
